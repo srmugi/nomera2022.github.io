@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fafb2fbc.css",
+    "main.js": "/static/js/main.e7b9d44a.js",
+    "static/js/787.22edae46.chunk.js": "/static/js/787.22edae46.chunk.js",
+    "static/media/gradient.gif": "/static/media/gradient.fab39bb16a82a62333f4.gif",
+    "static/media/logo.png": "/static/media/logo.300ddc81d0e7ac246e20.png",
+    "static/media/cake.jpeg": "/static/media/cake.6d7b5240f876e22833a4.jpeg",
+    "static/media/woman4.jpeg": "/static/media/woman4.589c31c746dcf9a5e092.jpeg",
+    "static/media/woman2.jpeg": "/static/media/woman2.36e57bd71beca80ad4d7.jpeg",
+    "static/media/woman.jpeg": "/static/media/woman.924f61c40fa2805972aa.jpeg",
+    "static/media/backbutton.png": "/static/media/backbutton.f681d04c6b953e299476.png",
+    "static/media/upbutton.png": "/static/media/upbutton.0f2278ce5328034a0d42.png",
+    "index.html": "/index.html",
+    "main.fafb2fbc.css.map": "/static/css/main.fafb2fbc.css.map",
+    "main.e7b9d44a.js.map": "/static/js/main.e7b9d44a.js.map",
+    "787.22edae46.chunk.js.map": "/static/js/787.22edae46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fafb2fbc.css",
+    "static/js/main.e7b9d44a.js"
+  ]
+}
